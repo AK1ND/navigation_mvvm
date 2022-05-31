@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">navigation_mvvm</string>
+    <string name="enter_value">enter_value</string>
+    <string name="save">save</string>
+    <string name="cancel">cancel</string>
+    <string name="edit">Edit</string>
+    <string name="hello_world">hello world</string>
+    <string name="empty_message">empty message</string>
+</resources>
